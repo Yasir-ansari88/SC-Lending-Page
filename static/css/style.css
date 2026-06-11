@@ -203,13 +203,13 @@ h4 {
 .card-left {
     left: 30px;
     /* top: 35%; */
-    bottom: 25%;
+    bottom: 5%;
 }
 
 .card-right {
     right: 30px;
     /* top: 50%; */
-    bottom: 25%;
+    bottom: 5%;
 }
 
 
